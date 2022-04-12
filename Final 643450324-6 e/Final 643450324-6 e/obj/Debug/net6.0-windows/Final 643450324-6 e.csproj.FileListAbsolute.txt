@@ -16,3 +16,21 @@ C:\Users\Admin\Documents\Visual Studio 2022\Final 643450324-6 e\Final 643450324-
 C:\Users\Admin\Documents\Visual Studio 2022\Final 643450324-6 e\Final 643450324-6 e\obj\Debug\net6.0-windows\Final 643450324-6 e.genruntimeconfig.cache
 C:\Users\Admin\Documents\Visual Studio 2022\Final 643450324-6 e\Final 643450324-6 e\obj\Debug\net6.0-windows\Final_643450324_6_e.Properties.Resources.resources
 C:\Users\Admin\Documents\Visual Studio 2022\Final 643450324-6 e\Final 643450324-6 e\obj\Debug\net6.0-windows\Final 643450324-6 e.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Final-Project-643450324-6\Final 643450324-6 e\Final 643450324-6 e\bin\Debug\net6.0-windows\Final 643450324-6 e.exe
+C:\Users\Admin\Documents\GitHub\Final-Project-643450324-6\Final 643450324-6 e\Final 643450324-6 e\bin\Debug\net6.0-windows\Final 643450324-6 e.deps.json
+C:\Users\Admin\Documents\GitHub\Final-Project-643450324-6\Final 643450324-6 e\Final 643450324-6 e\bin\Debug\net6.0-windows\Final 643450324-6 e.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Final-Project-643450324-6\Final 643450324-6 e\Final 643450324-6 e\bin\Debug\net6.0-windows\Final 643450324-6 e.dll
+C:\Users\Admin\Documents\GitHub\Final-Project-643450324-6\Final 643450324-6 e\Final 643450324-6 e\bin\Debug\net6.0-windows\ref\Final 643450324-6 e.dll
+C:\Users\Admin\Documents\GitHub\Final-Project-643450324-6\Final 643450324-6 e\Final 643450324-6 e\bin\Debug\net6.0-windows\Final 643450324-6 e.pdb
+C:\Users\Admin\Documents\GitHub\Final-Project-643450324-6\Final 643450324-6 e\Final 643450324-6 e\obj\Debug\net6.0-windows\Final 643450324-6 e.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Final-Project-643450324-6\Final 643450324-6 e\Final 643450324-6 e\obj\Debug\net6.0-windows\Final_643450324_6_e.Form1.resources
+C:\Users\Admin\Documents\GitHub\Final-Project-643450324-6\Final 643450324-6 e\Final 643450324-6 e\obj\Debug\net6.0-windows\Final_643450324_6_e.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\Final-Project-643450324-6\Final 643450324-6 e\Final 643450324-6 e\obj\Debug\net6.0-windows\Final 643450324-6 e.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\Final-Project-643450324-6\Final 643450324-6 e\Final 643450324-6 e\obj\Debug\net6.0-windows\Final 643450324-6 e.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Final-Project-643450324-6\Final 643450324-6 e\Final 643450324-6 e\obj\Debug\net6.0-windows\Final 643450324-6 e.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Final-Project-643450324-6\Final 643450324-6 e\Final 643450324-6 e\obj\Debug\net6.0-windows\Final 643450324-6 e.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Final-Project-643450324-6\Final 643450324-6 e\Final 643450324-6 e\obj\Debug\net6.0-windows\Final 643450324-6 e.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Final-Project-643450324-6\Final 643450324-6 e\Final 643450324-6 e\obj\Debug\net6.0-windows\Final 643450324-6 e.dll
+C:\Users\Admin\Documents\GitHub\Final-Project-643450324-6\Final 643450324-6 e\Final 643450324-6 e\obj\Debug\net6.0-windows\ref\Final 643450324-6 e.dll
+C:\Users\Admin\Documents\GitHub\Final-Project-643450324-6\Final 643450324-6 e\Final 643450324-6 e\obj\Debug\net6.0-windows\Final 643450324-6 e.pdb
+C:\Users\Admin\Documents\GitHub\Final-Project-643450324-6\Final 643450324-6 e\Final 643450324-6 e\obj\Debug\net6.0-windows\Final 643450324-6 e.genruntimeconfig.cache

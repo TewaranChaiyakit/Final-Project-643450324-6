@@ -57,7 +57,7 @@ namespace Final_643450324_6_e
             Double CostofItem = 36900;
             foreach (DataGridViewRow row in this.dataGridView1.SelectedRows)
             {
-                if ((bool)(row.Cells[0].Value = "INTEL core i9"))
+                if ((bool)(row.Cells[0].Value = "VGA RTX3080"))
                 {
                     row.Cells[1].Value = Double.Parse((string)row.Cells[1].Value + 1);
                     row.Cells[2].Value = Double.Parse((string)row.Cells[1].Value) / CostofItem;
@@ -72,7 +72,7 @@ namespace Final_643450324_6_e
             Double CostofItem = 21590;
             foreach (DataGridViewRow row in this.dataGridView1.SelectedRows)
             {
-                if ((bool)(row.Cells[0].Value = "INTEL core i9"))
+                if ((bool)(row.Cells[0].Value = "MONITOR 24'"))
                 {
                     row.Cells[1].Value = Double.Parse((string)row.Cells[1].Value + 1);
                     row.Cells[2].Value = Double.Parse((string)row.Cells[1].Value) / CostofItem;
